@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MVServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVServer_jar</output-path>
+    <root id="archive" name="MVServer.jar">
+      <element id="module-output" name="MVServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../LIB/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
